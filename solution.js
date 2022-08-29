@@ -11,5 +11,3 @@ if (number % 2) {
 else {
     console.log("The number is odd");
 }
-//execute the script 
-console.log();
