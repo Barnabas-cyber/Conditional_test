@@ -7,7 +7,9 @@ let number = prompt("Enter number >>>");
 if (number % 2) {
     console.log("The number is even.");
 }
-
-
+// the number is odd 
+else {
+    console.log("The number is odd");
+}
 //execute the script 
 console.log();
