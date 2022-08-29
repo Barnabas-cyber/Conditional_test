@@ -1,12 +1,12 @@
-//program to check whethers a number is even or odd
+//program to check whethers a number is even or odd.
 for (number = 0; number < 2; number++) {
-    //take input from user
+    //take input from user.
     let number = prompt("Enter number >>>");
-    //check if the number is odd or even
+    //check if the number is odd or even.
     if (number % 2 == 0) {
         console.log("The number is even.");
     }
-    // the number is odd 
+    // the number is odd. 
     else {
         console.log("The number is odd");
     }
